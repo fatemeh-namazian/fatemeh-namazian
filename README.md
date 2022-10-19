@@ -12,19 +12,13 @@
 <a href="https://www.aparat.com/allan" target="blank"><img align="center" src="https://seeklogo.com/images/A/aparat-logo-E058915B14-seeklogo.com.png" alt="thealibigdeli" height="25" width="25" /></a>
 </p>
 
-### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Ultimate Django 3.2 Template with Frontend web](https://www.youtube.com/watch?v=nan3Y7vpSOQ)
-- [Ultimate Django Template - with #nginx #gunicorn #docker #letsencrypt](https://www.youtube.com/watch?v=3tKarSHzBy4)
-- [آموزش پایتون پیشرفته قسمت 26 - دیگر استدلال های argparser](https://www.youtube.com/watch?v=bZz_K8Czwbw)
-- [آموزش پایتون پیشرفته قسمت 27 - آشنایی با requests](https://www.youtube.com/watch?v=ZwuQmLd3OFc)
-- [آموزش پایتون پیشرفته قسمت 25 - آشنایی و استفاده اولیه از Argparse](https://www.youtube.com/watch?v=36M5x5LtLWY)
-<!-- YOUTUBE:END -->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="26" height="26"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/55/000000/raspberry-pi.png" alt="raspberry-pi"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26" height="26"/>
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="26" height="26"/>
