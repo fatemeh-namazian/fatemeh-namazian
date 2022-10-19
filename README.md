@@ -53,5 +53,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-namazian&layout=compact)](https://github.com/fatemeh-namazian/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeh-namazian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fatemeh-namazian)](https://github.com/fatemeh-namazian/github-readme-stats)
 
 
