@@ -12,12 +12,6 @@
 <a href="https://www.aparat.com/allan" target="blank"><img align="center" src="https://seeklogo.com/images/A/aparat-logo-E058915B14-seeklogo.com.png" alt="thealibigdeli" height="25" width="25" /></a>
 </p>
 
-
-<h3 align="left">Tutor at:</h3>
-<p align="left">
-<a href="https://maktabkhooneh.org/learn/?q=%D8%B9%D9%84%DB%8C+%D8%A8%DB%8C%DA%AF%D8%AF%D9%84%DB%8C" target="blank"><img align="center" src="https://maktabkhooneh.org/static/images/maktabkhooneh/brandmark_small.png" alt="thealibigdeli" height="50" width="150" /></a>
-</p>
-
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Ultimate Django 3.2 Template with Frontend web](https://www.youtube.com/watch?v=nan3Y7vpSOQ)
