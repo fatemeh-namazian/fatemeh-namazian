@@ -51,7 +51,7 @@
 
 <h3 align="left">States:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-namazian)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeh-namazian&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-namazian)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeh-namazian&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true)
 
 
